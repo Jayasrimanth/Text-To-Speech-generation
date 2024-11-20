@@ -24,8 +24,6 @@ Installation
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/yourusername/text-to-speech-app.git
 cd text-to-speech-app
 Install the required Python packages:
 
